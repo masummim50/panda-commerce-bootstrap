@@ -1,0 +1,25 @@
+.panda-carousel-bg{
+  background-color:#feeae9;
+}
+.small-items img{
+  width:100px;
+}
+.no-border{
+  border:0;
+}
+.custom-button{
+  background-image: linear-gradient(180deg, tomato, rgb(204, 45, 45));
+}
+
+.shoes-bg{
+  background-color:#0000ff;
+}
+.bags-bg{
+  background-color:#da70d6;
+}
+.watch-bg{
+  background-color:#ffa600;
+}
+.custom-shadow{
+  box-shadow: 1px 1px 10px grey;
+}
